@@ -1,5 +1,10 @@
 ![LOGO](https://gcore.jsdelivr.net/gh/Hny0305Lin/LIVING_SOIL_Project@master/LIVING_SOIL_Resources/LOGO.png)
 
+![](https://img.shields.io/badge/license-Haohanyh%20Computer%20Software%20Products%20Open%20Source%20LICENSE-blue?style=for-the-badge)
+![](https://img.shields.io/github/languages/code-size/Hny0305Lin/LIVING_SOIL_Project?style=for-the-badge)
+![](https://img.shields.io/github/directory-file-count/Hny0305Lin/LIVING_SOIL_Project?style=for-the-badge)
+![](https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-%23fec0cb)
+![](https://img.shields.io/github/stars/Hny0305Lin/LIVING_SOIL_Project?color=GREEN&label=GITHUB%20STARS&logo=GITHUB&logoColor=green&style=for-the-badge)
 # LIVING_SOIL_Project
 活土壤(LIVING SOIL)项目，Android + 华为云交互 + 图像识别 + 大数据算法，遵守Haohanyh Computer Software Products Open Source LICENSE（浩瀚银河计算机软件产品源代码开放协议 第一版四次修订）
 
