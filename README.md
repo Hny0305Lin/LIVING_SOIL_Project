@@ -1,4 +1,4 @@
-![LOGO](https://github.com/Hny0305Lin/LIVING_SOIL_Project/LIVING_SOIL_Resources/LOGO.png)
+![LOGO](https://gcore.jsdelivr.net/gh/Hny0305Lin/LIVING_SOIL_Project@master/LIVING_SOIL_Resources/LOGO.png)
 
 # LIVING_SOIL_Project
 活土壤(LIVING SOIL)项目，Android + 华为云交互 + 图像识别 + 大数据算法，遵守Haohanyh Computer Software Products Open Source LICENSE（浩瀚银河计算机软件产品源代码开放协议 第一版四次修订）
@@ -11,6 +11,7 @@
 
 # 引领创新、创业、创意三方面发展的一份全新开源项目
 ![创新创业创造，我们从未停歇下我们的脚步](https://img.shields.io/badge/LIVING%20SOIL%20-Creative.StartUp.Idea-gray.svg?colorA=007FFC&colorB=4DDDFC&style=for-the-badge)
+
 创新(Creative): 将农业物联网、农业灌溉的专业精准化，迈向行业内从未触摸过的高度，做到了“节水灌溉，智能物联，互惠发展，双向合作”。
 
 创业(StartUp): 全新的项目，与传统农林产业结合，真正的做到“新型技术为产业服务”的创业Idea。
