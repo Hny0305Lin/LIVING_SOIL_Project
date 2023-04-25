@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-%23fec0cb)
 ![](https://img.shields.io/github/stars/Hny0305Lin/LIVING_SOIL_Project?color=GREEN&label=GITHUB%20STARS&logo=GITHUB&logoColor=green&style=for-the-badge)
 # LIVING_SOIL_Project
-活土壤(LIVING SOIL)项目，Android + 华为云交互 + 图像识别 + 大数据算法，遵守Haohanyh Computer Software Products Open Source LICENSE（浩瀚银河计算机软件产品源代码开放协议 第一版四次修订）
+活土壤(LIVING SOIL)项目，Android + 华为云交互 + 图像识别 ，遵守Haohanyh Computer Software Products Open Source LICENSE（浩瀚银河计算机软件产品源代码开放协议 第一版四次修订）
 
 **本开源项目获得的流量热度等社会公共资源，将会全额无偿投入于活土壤触及到的农业林业物联网方向化，并会让开源项目保持维护下去，项目从软件到硬件、从云端到本地，我们想做多久就做多久！**
 
@@ -32,6 +32,7 @@
 | 开发情况 | 完工程度 | 后续更新情况 |
 |:----|:----:|:----:|
 | Android APP | 0% |  |
+| PaddleLite | 0% | |
 | Web | 0% |  |
 
 Android APP对应版本号:
